@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Perpanjangan KTA Juru Parkir Kabupaten Temanggung</title>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: sans-serif; margin: 30px; background-color: #f4f4f4; }
+        .container { background: white; padding: 20px; border-radius: 8px; max-width: 600px; margin: auto; }
+        h1 { color: #333; }
+        a.button { display: inline-block; background: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; }
+        a.button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Perpanjangan KTA Juru Parkir</h1>
+        <p>Website ini digunakan untuk membantu juru parkir melakukan perpanjangan KTA secara online.</p>
+        <h2>Prosedur Perpanjangan:</h2>
+        <ol>
+            <li>Siapkan KTP, KTA lama, dan foto terbaru.</li>
+            <li>Isi formulir online dengan data lengkap.</li>
+            <li>Tunggu konfirmasi dari petugas Dinas Perhubungan.</li>
+        </ol>
+        <h2>Formulir Pendaftaran</h2>
+        <p>Silakan klik tombol di bawah ini untuk mengisi formulir perpanjangan:</p>
+        <a class="button" href="https://forms.gle/contohlinkformulir" target="_blank">Isi Formulir Perpanjangan</a>
+        <p>Kontak: <br>Email: dishubtemanggung@email.com <br>Telp: 081215050368</p>
+    </div>
+</body>
+</html>
